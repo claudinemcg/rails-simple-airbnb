@@ -29,7 +29,7 @@ Flat.create!(
 Flat.create!(
   name: 'Cozy Flat Dublin',
   address: 'Stoneybatter Dublin 7',
-  description: 'Lovely warm comfortable and stylishly furnished house. Private bedroom and bathroom with shared living areas'
+  description: 'Lovely warm comfortable and stylishly furnished house. Private bedroom and bathroom with shared living areas',
   price_per_night: 65,
   number_of_guests: 2
 )
